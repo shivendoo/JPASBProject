@@ -30,7 +30,7 @@ public class JPAController {
 
 	@RequestMapping("/")
 public String home()	{
-	System.out.println("** Hi This is home method ***");
+	System.out.println("** Shivendra method***");
 	return "home.jsp" ;
 }
 	
